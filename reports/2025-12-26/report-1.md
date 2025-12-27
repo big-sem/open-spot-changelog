@@ -2,7 +2,7 @@
 
 **Repository:** big-sem/open-spot (private)  
 **Window:** 2025-09-28 → 2025-12-27 (UTC)  
-**Generated:** 2025-12-27T03:27:06Z
+**Generated:** 2025-12-27T01:27:47Z
 
 ## Metrics
 - **Commits (default branch):** 77
