@@ -1,21 +1,17 @@
 # Public activity report
 
 **Repository:** big-sem/open-spot (private)  
-**Window:** 2025-10-01 → 2025-12-30 (UTC)  
-**Generated:** 2025-12-30T03:41:09Z
+**Window:** 2025-09-30 → 2025-12-29 (UTC)  
+**Generated:** 2025-12-29T03:52:46Z
 
 ## Metrics
-- **Commits (default branch):** 82
+- **Commits (default branch):** 78
 - **PRs:** created 0, merged 0
 - **Issues:** created 0, closed 0
 
 ## Commit history (top 100 in window)
 | Date (UTC) | Author | SHA | + | - | Total |
 |---|---|---:|---:|---:|---:|
-| 2025-12-30T03:13:32Z | Gal-Erdene-dreamer | 51c0c4c | 4 | 3 | 7 |
-| 2025-12-30T03:10:39Z | Gal-Erdene-dreamer | 45f2093 | 1 | 1 | 2 |
-| 2025-12-30T02:36:01Z | Gal-Erdene-dreamer | ef93ab3 | 21 | 2 | 23 |
-| 2025-12-30T02:27:16Z | Gal-Erdene-dreamer | e3f01cc | 314 | 4 | 318 |
 | 2025-12-27T07:33:53Z | HoustonAsh | 383bad1 | 44 | 1 | 45 |
 | 2025-12-27T01:26:45Z | HoustonAsh | 6b9427d | 1 | 2 | 3 |
 | 2025-12-25T15:07:58Z | HoustonAsh | 69ce505 | 11 | 0 | 11 |
@@ -97,6 +93,5 @@
 
 ## Contributors
 - [Batgerel53](https://github.com/Batgerel53) — 25 commits
-- [Gal-Erdene-dreamer](https://github.com/Gal-Erdene-dreamer) — 4 commits
 - [HoustonAsh](https://github.com/HoustonAsh) — 53 commits
 
