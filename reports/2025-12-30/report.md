@@ -1,32 +1,17 @@
 # Public activity report
 
 **Repository:** big-sem/open-spot (private)  
-**Window:** 2025-10-02 → 2025-12-31 (UTC)  
-**Generated:** 2025-12-31T03:41:03Z
+**Window:** 2025-10-01 → 2025-12-30 (UTC)  
+**Generated:** 2025-12-30T03:41:09Z
 
 ## Metrics
-- **Commits (default branch):** 97
+- **Commits (default branch):** 82
 - **PRs:** created 0, merged 0
 - **Issues:** created 0, closed 0
 
 ## Commit history (top 100 in window)
 | Date (UTC) | Author | SHA | + | - | Total |
 |---|---|---:|---:|---:|---:|
-| 2025-12-31T03:07:43Z | HoustonAsh | ace7e00 | 6 | 7 | 13 |
-| 2025-12-31T03:07:38Z | HoustonAsh | 7a15cf3 | 6 | 4 | 10 |
-| 2025-12-31T03:04:34Z | Batgerel53 | fa45e46 | 6 | 7 | 13 |
-| 2025-12-31T02:45:58Z | HoustonAsh | 6999cf0 | 3 | 2 | 5 |
-| 2025-12-31T02:35:51Z | HoustonAsh | 45563c2 | 30 | 13 | 43 |
-| 2025-12-31T02:02:40Z | HoustonAsh | 334207e | 1 | 1 | 2 |
-| 2025-12-30T10:01:23Z | HoustonAsh | caa92ce | 2 | 2 | 4 |
-| 2025-12-30T09:56:12Z | Batgerel53 | 02919f4 | 94 | 131 | 225 |
-| 2025-12-30T09:55:54Z | Batgerel53 | 9151acc | 1 | 1 | 2 |
-| 2025-12-30T08:32:44Z | Gal-Erdene-dreamer | 25630e0 | 94 | 131 | 225 |
-| 2025-12-30T08:06:47Z | Batgerel53 | 0345c2b | 40 | 21 | 61 |
-| 2025-12-30T08:06:30Z | Batgerel53 | a70b228 | 7 | 5 | 12 |
-| 2025-12-30T07:08:35Z | HoustonAsh | 94b97fd | 14 | 7 | 21 |
-| 2025-12-30T06:47:11Z | HoustonAsh | 04bdf10 | 336 | 6 | 342 |
-| 2025-12-30T06:47:06Z | HoustonAsh | 548e312 | 26 | 14 | 40 |
 | 2025-12-30T03:13:32Z | Gal-Erdene-dreamer | 51c0c4c | 4 | 3 | 7 |
 | 2025-12-30T03:10:39Z | Gal-Erdene-dreamer | 45f2093 | 1 | 1 | 2 |
 | 2025-12-30T02:36:01Z | Gal-Erdene-dreamer | ef93ab3 | 21 | 2 | 23 |
@@ -111,7 +96,7 @@
 | 2025-12-11T06:43:30Z | HoustonAsh | 3d96378 | 58062 | 0 | 58062 |
 
 ## Contributors
-- [Batgerel53](https://github.com/Batgerel53) — 30 commits
-- [Gal-Erdene-dreamer](https://github.com/Gal-Erdene-dreamer) — 5 commits
-- [HoustonAsh](https://github.com/HoustonAsh) — 62 commits
+- [Batgerel53](https://github.com/Batgerel53) — 25 commits
+- [Gal-Erdene-dreamer](https://github.com/Gal-Erdene-dreamer) — 4 commits
+- [HoustonAsh](https://github.com/HoustonAsh) — 53 commits
 
