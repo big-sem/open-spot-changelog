@@ -1,21 +1,17 @@
 # Public activity report
 
 **Repository:** big-sem/open-spot (private)  
-**Window:** 2025-10-10 → 2026-01-08 (UTC)  
-**Generated:** 2026-01-08T03:43:11Z
+**Window:** 2025-10-09 → 2026-01-07 (UTC)  
+**Generated:** 2026-01-07T03:43:01Z
 
 ## Metrics
-- **Commits (default branch):** 105
+- **Commits (default branch):** 101
 - **PRs:** created 0, merged 0
 - **Issues:** created 0, closed 0
 
 ## Commit history (top 100 in window)
 | Date (UTC) | Author | SHA | + | - | Total |
 |---|---|---:|---:|---:|---:|
-| 2026-01-07T19:43:39Z | HoustonAsh | 04caaa2 | 130 | 103 | 233 |
-| 2026-01-07T19:43:34Z | HoustonAsh | 78cd147 | 17 | 11 | 28 |
-| 2026-01-07T19:40:26Z | HoustonAsh | aaa14b6 | 67 | 0 | 67 |
-| 2026-01-07T05:13:55Z | Batgerel53 | a6721d8 | 153 | 39 | 192 |
 | 2026-01-07T02:53:25Z | Gal-Erdene-dreamer | 0b9eb96 | 15 | 4 | 19 |
 | 2026-01-06T19:04:21Z | HoustonAsh | 4449c49 | 969 | 67 | 1036 |
 | 2026-01-06T19:04:17Z | HoustonAsh | f9c4e53 | 8 | 11 | 19 |
@@ -112,9 +108,13 @@
 | 2025-12-15T17:49:20Z | HoustonAsh | f58575c | 173 | 62 | 235 |
 | 2025-12-15T10:41:20Z | HoustonAsh | a355742 | 21 | 26 | 47 |
 | 2025-12-15T06:46:25Z | HoustonAsh | 3d285d0 | 0 | 0 | 0 |
+| 2025-12-15T06:43:32Z | HoustonAsh | 5eacdc9 | 908 | 201 | 1109 |
+| 2025-12-15T06:37:35Z | HoustonAsh | 0ae7868 | 5239 | 2665 | 7904 |
+| 2025-12-15T02:58:09Z | Batgerel53 | 5fa64d9 | 1006 | 299 | 1305 |
+| 2025-12-12T05:16:43Z | HoustonAsh | 65d9e5b | 638 | 12681 | 13319 |
 
 ## Contributors
-- [Batgerel53](https://github.com/Batgerel53) — 31 commits
+- [Batgerel53](https://github.com/Batgerel53) — 30 commits
 - [Gal-Erdene-dreamer](https://github.com/Gal-Erdene-dreamer) — 7 commits
-- [HoustonAsh](https://github.com/HoustonAsh) — 67 commits
+- [HoustonAsh](https://github.com/HoustonAsh) — 64 commits
 
