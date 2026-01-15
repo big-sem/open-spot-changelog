@@ -1,8 +1,8 @@
 # Public activity report
 
 **Repository:** big-sem/open-spot (private)  
-**Window:** 2025-10-17 → 2026-01-15 (UTC)  
-**Generated:** 2026-01-15T03:45:12Z
+**Window:** 2025-10-16 → 2026-01-14 (UTC)  
+**Generated:** 2026-01-14T03:51:31Z
 
 ## Metrics
 - **Commits (default branch):** 112
